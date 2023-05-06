@@ -5,7 +5,7 @@ import numpy as np
 
 
 #variable
-width, height = 1200, 720
+width, height = 1600, 920
 folderPath = "presentation"
 
 
